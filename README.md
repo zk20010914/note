@@ -46,7 +46,7 @@
 4分析  
 尽可能地使用软件的所有功能。  
    我已经使用过全部功能   
-![333](https://github.com/zk20010914/note/blob/main/en.JPG)   
+![en](https://github.com/zk20010914/note/blob/main/en.JPG)   
   
 5建议规划  
 如果我是项目经理，我会怎么做。    
